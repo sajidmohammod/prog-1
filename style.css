@@ -1,0 +1,96 @@
+snap{
+    color:rgb(247, 158, 41);
+}
+.div1{
+     border-left-style: solid;
+     border-left-color: crimson;
+    
+}
+.hh{
+    margin-left: 7px;
+}a{
+    text-decoration: none;
+    background-color: tomato;
+    color: whitesmoke;
+    border-radius: 6px;
+    padding: 10px 10px;
+    
+}
+img{
+    width: 300px;
+}
+
+.flx1{
+    display: flex;
+    
+}
+.first{
+    display: flex;
+}
+.together{
+    
+    width: 50%;
+}
+#cnt{
+    text-align: center;
+}
+.sec{
+    display: flex;
+    
+}
+.Mission{
+    background-color: rgb(234, 234, 248);
+    padding-right: 17px;
+    margin-right: 17px;
+    border-radius: 5px;
+}
+.Vision{
+    background-color: rgb(236, 227, 240);
+    padding-right: 17px;
+    margin-right: 17px;
+    border-radius: 10px;
+
+}
+.Goals{
+background-color: rgb(245, 231, 233);
+border-radius: 10px;
+}
+.third{
+    display: flex;
+    padding-top: 20px;
+}
+.sus{
+    padding-left: 20px;
+}
+.four{
+    display: flex;
+}   
+.pic-2{
+    padding-left:20px ;
+
+} 
+.spo{
+    padding-top: 25px;
+    text-align: center;
+}
+.five{
+    display: flex;
+    padding-top: 40px;
+}
+.music{
+    padding-left: 60px;
+}
+.red{
+    color: crimson;
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.box{
+    padding-left: 7px;
+}
+body{
+    padding-left: 20px;
+}
